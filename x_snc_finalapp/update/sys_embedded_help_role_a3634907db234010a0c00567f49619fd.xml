@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_snc_finalapp.admin" name="x_snc_finalapp.admin">ae630907db234010a0c00567f49619af</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>shailja.panthri@snc</sys_created_by>
+        <sys_created_on>2020-03-18 23:14:35</sys_created_on>
+        <sys_id>a3634907db234010a0c00567f49619fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ae630907db234010a0c00567f49619af</sys_name>
+        <sys_package display_value="FinalApp" source="x_snc_finalapp">2112c507dba34010193e43ea13961912</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FinalApp">2112c507dba34010193e43ea13961912</sys_scope>
+        <sys_update_name>sys_embedded_help_role_a3634907db234010a0c00567f49619fd</sys_update_name>
+        <sys_updated_by>shailja.panthri@snc</sys_updated_by>
+        <sys_updated_on>2020-03-18 23:14:35</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
