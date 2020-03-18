@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_finalapp.test_user" name="x_snc_finalapp.test_user">7f424507dba34010193e43ea1396192b</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-18 23:09:42</sys_created_on>
+        <sys_id>fb428907dba34010193e43ea139619dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7f424507dba34010193e43ea1396192b</sys_name>
+        <sys_package display_value="FinalApp" source="x_snc_finalapp">2112c507dba34010193e43ea13961912</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FinalApp">2112c507dba34010193e43ea13961912</sys_scope>
+        <sys_update_name>sys_embedded_help_role_fb428907dba34010193e43ea139619dd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-18 23:09:42</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
